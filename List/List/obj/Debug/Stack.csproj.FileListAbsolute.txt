@@ -1,0 +1,10 @@
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\bin\Debug\Stack.exe
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\bin\Debug\Stack.pdb
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.Form1.resources
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.exe
+D:\Chportko\AlgStructData23\Stack\Stack\Stack\obj\Debug\Stack.pdb
